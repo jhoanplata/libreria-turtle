@@ -1,4 +1,4 @@
-import turtle as t
+import turtle 
 
 t = turtle.Turtle()
 s = turtle.Screen()
