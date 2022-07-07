@@ -8,3 +8,4 @@
 
 - Se realiza de 3 maneras diferentes un corazón :heart:
 
+<img src="/img/corazon1.png" alt="corazon"/>
